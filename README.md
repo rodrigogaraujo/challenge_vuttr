@@ -25,7 +25,7 @@ The task is to build a front-end for the VUTTR (Very Useful Tools to Remember) a
 https://gitlab.com/bossabox/challenge-fake-api/tree/master
 
 # Preview
-<img src="https://github.com/rodrigogaraujo/challenge_americanas/blob/master/giftvuttr.gif" width="650"/>
+<img src="https://github.com/rodrigogaraujo/challenge_vuttr/blob/master/giftvuttr.gif" width="650"/>
 
 # Contact
 rodrigoaraujo990@gmail.com
