@@ -15,7 +15,6 @@ The task is to build a front-end for the VUTTR (Very Useful Tools to Remember) a
 - useState
 - useEffect
 - useCallback
-- useContext
 - Styled components 
 - Polished
 - Axios
